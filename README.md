@@ -44,6 +44,6 @@ Diseña un formulario de registro con campos para nombre, email y contraseña. I
 ### Ejercicio # 5: Layout Complejo con Diferentes Displays
 Crea una página web que incluya un encabezado, una barra de navegación, una sección principal con un artículo y una barra lateral, y un pie de página. Utiliza diferentes propiedades display para estructurar el layout.
 
-**¡No te rindas!** Si encuentras algún obstáculo durante los ejercicios, no dudes en consultar recursos adicionales, buscar ayuda en la comunidad online o repasar los conceptos aprendidos en el curso. Recuerda que la práctica constante es la clave para dominar el lenguaje HTML.
+**¡No te rindas!** Si encuentras algún obstáculo durante los ejercicios, no dudes en consultar recursos adicionales, buscar ayuda en la comunidad online o repasar los conceptos aprendidos en el curso. Recuerda que la práctica constante es la clave para dominar el lenguaje HTML y CSS.
 
 **¡Confío en tus habilidades!** Adelante, demuestra tu dominio  en CSS y lleva tus proyectos web al siguiente nivel.
